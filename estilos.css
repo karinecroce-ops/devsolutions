@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:borde-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color:darkslateblue
+}
+.funcionalidades{
+    padding:20px; 
+    background-color: rgb(189, 185, 193);
+}
+.funcionalidades h2{
+   color:rgb(195, 76, 235);
+}
+.secao-pincipal h1{
+     color:rgb(255, 255, 255)
+}
+   
